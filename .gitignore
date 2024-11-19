@@ -1,0 +1,74 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and temporary files
+*.log
+*.pot
+*.tmp
+*.temp
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.bz2
+*.sqlite3
+*.db
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache files
+*.cache
+*.pycache/
+*.mypy_cache/
+*.pytest_cache/
+*.tox/
+coverage/
+
+# Test coverage reports
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Packages and dependency files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.wheel
+
+# Pylint reports
+pylint-report.txt
+
+# Environment variables
+.env
+*.env
+
+# IDE settings and project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Generated documentation
+docs/_build/
